@@ -1,3 +1,8 @@
+# Run It
+
+~/www/tic-tac-toe/build$ pm2 serve -l 80 --port 80
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
